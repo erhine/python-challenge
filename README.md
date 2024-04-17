@@ -1,7 +1,7 @@
 # python-challenge
 Module 3 assignment
 
-The instructions for this assigment are listed below. All coding work is my own.
+The instructions for the assigment hosted in this repo are listed below. All coding work is my own.
 
 __________________________________________
 
